@@ -12,11 +12,3 @@
 - 🐈 mother of two
 
 - 🏳️‍🌈 LoveisLove
-
-<a href="https://linkedin.com/in/a_paulaassuncao" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maybrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/a_paulaassuncao" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
