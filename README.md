@@ -3,7 +3,7 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ana</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-paulaassuncao&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Developer web initial & financial assistent
+- 🔥 Junior Web Developer, looking for a professional replacement
 
 - 🔭 I’m currently working at [CGCEnergia Solar](https://cgc-energia.com.br/)
 
