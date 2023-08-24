@@ -27,6 +27,13 @@
 
 <br><br>
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=a-paulaassuncao&show_icons=true&theme=vision-friendly-dark" alt="a-paulaassuncao's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-paulaassuncao&layout=compact&theme=vision-friendly-dark" alt="a-paulaassuncao's most languages"/>
+</p>
+
 ##
 <div> 
   <a href="https://www.instagram.com/a_paulaassuncao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
