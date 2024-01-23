@@ -5,7 +5,7 @@
 
 - 🔥 Junior Web Developer, looking for a professional replacement
 
-- 🔭 I’m currently working at [CGCEnergia Solar](https://cgc-energia.com.br/)
+- 🔭 I am looking for a professional relocation opportunity
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
