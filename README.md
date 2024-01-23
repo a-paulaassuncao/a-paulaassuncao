@@ -3,9 +3,9 @@
 <h1 align="left">Hi, I'm Ana</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-paulaassuncao&color=red" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer, looking for a professional replacement
+- 🔥 Junior Web Developer
 
-- 🔭 I am looking for a professional relocation opportunity
+- 🔭 looking for a professional replacement
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
