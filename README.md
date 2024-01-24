@@ -7,7 +7,7 @@
 
 - 🔭 looking for a professional replacement
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 talk to me about **JavaScript, HTML, CSS**
 
 - 🐈 mother of two
 
