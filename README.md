@@ -7,12 +7,6 @@
 
 - 🔭 looking for a professional replacement
 
-- 💬 talk to me about **JavaScript, HTML, CSS**
-
-- 🐈 mother of two
-
-- 🏳️‍🌈 LoveisLove
-
 <br>
 
 ##
