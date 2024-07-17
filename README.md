@@ -31,9 +31,4 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=a-paulaassuncao&show_icons=true&theme=vision-friendly-dark" alt="a-paulaassuncao's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-paulaassuncao&layout=compact&theme=vision-friendly-dark" alt="a-paulaassuncao's most languages"/>
-</p>
+##
