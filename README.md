@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I'm Ana</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-paulaassuncao&color=red" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer
+- 🔥 Web Developer
 
 - 🔭 looking for a professional replacement
 
